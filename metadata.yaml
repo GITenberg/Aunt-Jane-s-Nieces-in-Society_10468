@@ -1,0 +1,39 @@
+_repo: Aunt-Jane-s-Nieces-in-Society_10468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: In the sixth of the series of ten adventure stories that Wizard of Oz
+  writer L. Frank Baum penned for young adults, wealthy magnate and world traveler
+  Uncle John proposes that the family escape the winter chill of New York with a sojourn
+  in sunny southern California. However, what starts out as a pleasant journey is
+  soon beset by problems and travails. Will the weary travelers ever make it to their
+  destination?
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Debutantes -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcsh 'Upper class -- Juvenile fiction'
+- GITenberg
+title: Aunt Jane's Nieces in Society
+url: http://www.gutenberg.org/ebooks/10468
